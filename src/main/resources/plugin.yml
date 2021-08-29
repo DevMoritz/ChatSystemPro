@@ -1,0 +1,12 @@
+name: ChatSystem
+author: DevMoritz
+website: https://devmoritz.de/spigot/ChatSystem
+version: '${project.version}'
+main: de.devmoritz.chatsystem.Chatsystem
+api-version: 1.17
+description: This plugin provides an "easy" ChatSystem
+
+commands:
+  chatsystem:
+    description: Reloading Config
+    usage: /<command> reload

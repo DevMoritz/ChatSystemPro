@@ -1,0 +1,11 @@
+global:
+  prefix: "§6[ChatSystem]"
+  noPerms: "§cDu hast keine Rechte für diesen Befehl"
+
+settings:
+  # Spacer between Userrank and Username
+  prefixSpacer: '§8| §f'
+  # Spacer between Username and Message
+  nameSpacer: '§8➡ §7'
+  # Fallback Userrank
+  standardName: '§7Spieler'
